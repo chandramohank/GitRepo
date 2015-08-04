@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace AngularDemo.Entities.Models
 {
-    class Name
+    public class name
     {
+        public string first { get; set; }
+        public string last { get; set; }
+
     }
 }

@@ -40,8 +40,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Employee.cs" />
-    <Compile Include="Models\Friends.cs" />
-    <Compile Include="Models\Name.cs" />
+    <Compile Include="Models\friends.cs" />
+    <Compile Include="Models\name.cs" />
     <Compile Include="Models\Tags.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
